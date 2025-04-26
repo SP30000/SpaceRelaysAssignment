@@ -1,6 +1,6 @@
 """
 Inter-Satellite Optical Communication Analysis
-Author: SpaceRelays Assignment
+Author: Sanyatjeet Pawde
 
 This script performs an analysis to understand the impact of optical beam output power
 on inter-satellite communication in outer space.
